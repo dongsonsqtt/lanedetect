@@ -1,0 +1,3 @@
+/home/sonnguyen/C++/build/CMakeFiles/rebuild_cache.dir
+/home/sonnguyen/C++/build/CMakeFiles/run.dir
+/home/sonnguyen/C++/build/CMakeFiles/edit_cache.dir

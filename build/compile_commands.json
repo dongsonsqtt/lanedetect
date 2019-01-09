@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sonnguyen/C++/build",
+  "command": "/usr/bin/g++-7   -isystem /usr/include/opencv  -g   -o CMakeFiles/run.dir/video.cpp.o -c /home/sonnguyen/C++/video.cpp",
+  "file": "/home/sonnguyen/C++/video.cpp"
+}
+]
